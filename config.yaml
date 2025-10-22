@@ -1,0 +1,42 @@
+teams:
+- name: cbomkit-maintainers
+  maintainers:
+  - n1ckl0sk0rtge
+  members:
+  - san-zrl
+- name: lf-employees
+  maintainers:
+  - ryjones
+  members:
+  - thelinuxfoundation
+  - hartm
+  - christinaharter
+repositories:
+#- name: cbomkit
+#  teams:
+#    cbomkit-maintainers: admin
+#  visibility: public
+#- name: cbomkit-action
+#  teams:
+#    cbomkit-maintainers: admin
+#  visibility: public
+#- name: cbomkit-lib
+#  teams:
+#    cbomkit-maintainers: admin
+#  visibility: public
+#- name: cbomkit-pipeline
+#  teams:
+#    cbomkit-maintainers: admin
+#  visibility: public
+#- name: cbomkit-theia
+#  teams:
+#    cbomkit-maintainers: admin
+#  visibility: public
+#- name: sonar-cryptography
+#  teams:
+#    cbomkit-maintainers: admin
+#  visibility: public
+- name: governance
+  teams:
+    lf-employees: maintain
+  visibility: public
