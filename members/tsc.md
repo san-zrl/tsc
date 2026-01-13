@@ -6,6 +6,7 @@ The current TSC voting members are:
 * [Nicklas Körtge](https://github.com/n1ckl0sk0rtge)
 * [Andreas Schade](https://github.com/san-zrl) - TSC lead
 * [Fynn Thierling](https://github.com/fynnth)
+* [Aditya Koranga](https://github.com/AdityaKoranga)
 
 
 Anyone is welcome to contribute to the work of the TSC through meetings, issues & other activities.
